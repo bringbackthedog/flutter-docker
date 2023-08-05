@@ -1,2 +1,2 @@
 # flutter-docker
-Containerizing Flutter 
+Containerizing Flutter for serving a web app.
